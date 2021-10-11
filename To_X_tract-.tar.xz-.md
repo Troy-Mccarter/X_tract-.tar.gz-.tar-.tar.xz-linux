@@ -1,4 +1,4 @@
-Extracting tar.xz file in Linux
+# Extracting tar.xz file in Linux
 Extracting a tar xz file is fairly simple. You just need to make sure that you have support for xz compression utility on your Linux distribution.
 
 xz compression tool is available through xz-utils package in most Linux distributions. Most of the time, you’ll already have the xz-utils installed by default.
